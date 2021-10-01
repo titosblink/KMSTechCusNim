@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+								<twm_bol><identification_segment><registry_number>NY137R</registry_number><date>20/09/2021</date><bol_reference>MEDULG243727</bol_reference><Customs_office_segment>
+        					<Code>01TC</Code>
+        				</Customs_office_segment></identification_segment><bol_specific_segment><line_number>7</line_number><Bol_nature>22</Bol_nature><master_bol>
+						<customs_office_code>XXX</customs_office_code>
+						<registry_number>XXX</registry_number>
+						<date_of_departure />
+						<master_bol_reference>XXX</master_bol_reference>
+					</master_bol><unique_carrier_reference>AGENT-BP000638</unique_carrier_reference>
+        			<total_number_of_containers>4</total_number_of_containers>
+        			<total_gross_mass_manifested>7</total_gross_mass_manifested>
+        			<volume_in_cubic_meters>92000.00</volume_in_cubic_meters><bol_type_segment>
+						<code></code>
+					</bol_type_segment>
+					<exporter_segment>
+						<code /><name></name>
+						<address></address>
+					</exporter_segment>
+					<consignee_segment>
+						<code /><name></name>
+						<address></address>
+					</consignee_segment>
+					<notify_segment>
+						<code /><name></name>
+						<address></address>
+					</notify_segment>
+					<place_of_loading>
+						<code>NGTIN</code>
+					</place_of_loading>
+					<Place_of_unloading>
+						<destport_code>NGTIN</destport_code>
+							<terminal_operator>
+							<terminalop_berthcode>AGENT-BP002171</terminalop_berthcode>
+							</terminal_operator>
+					</Place_of_unloading><freight_segment>
+						<bol_freight_cost />
+						<currency></currency>
+						<indicator_segment />
+					</freight_segment>
+					<packages_segment>
+						<package_type_code></package_type_code>
+						<number_of_packages></number_of_packages>
+						<cargo_class_segment>
+							<cargo_code></cargo_code>
+							<cargo_qty></cargo_qty>
+							<cargo_uom></cargo_uom>
+							<cargo_freight />
+						</cargo_class_segment>
+						<shipping_marks/>
+						<goods_description>Wood charcoal (including shell or nut charcoal), whether or not agglomerated</goods_description>
+					</packages_segment>
+					<customs_segment>
+						<value />
+						<currency />
+					</customs_segment>
+					<transport_segment>
+						<value />
+						<currency />
+					</transport_segment>
+					<insurance_segment>
+						<value />
+						<currency />
+					</insurance_segment>
+					<seals_segment>
+						<number_of_seals></number_of_seals>
+						<mark_of_seals></mark_of_seals>
+						<sealing_party_code></sealing_party_code>
+						<Information_part_a></Information_part_a>
+					</seals_segment>
+					<operations_segment>
+						<location_segment>
+							<code></code>
+							<information />
+						</location_segment>
+					</operations_segment><container>
+            				<reference>DFSU6463475</reference>
+            				<number>1</number>
+            				<type>40HC</type>
+            				<Empty_full>1/1</Empty_full>
+            				<seals>EU21374952</seals>
+            				<mark1></mark1>
+        					<mark2 />
+            				<sealing_party></sealing_party>
+							<cargo_class_segment>
+								<cargo_code>DCBA40CL</cargo_code>
+								<cargo_freight></cargo_freight>
+							</cargo_class_segment>
+						</container>
+						<container>
+            				<reference>TEMU6233026</reference>
+            				<number>1</number>
+            				<type>40HC</type>
+            				<Empty_full>1/1</Empty_full>
+            				<seals>EU21374959</seals>
+            				<mark1></mark1>
+        					<mark2 />
+            				<sealing_party></sealing_party>
+							<cargo_class_segment>
+								<cargo_code>DCBA40CL</cargo_code>
+								<cargo_freight></cargo_freight>
+							</cargo_class_segment>
+						</container>
+						<container>
+            				<reference>MSDU7226073</reference>
+            				<number>1</number>
+            				<type>40HC</type>
+            				<Empty_full>1/1</Empty_full>
+            				<seals>EU21374958</seals>
+            				<mark1></mark1>
+        					<mark2 />
+            				<sealing_party></sealing_party>
+							<cargo_class_segment>
+								<cargo_code>DCBA40CL</cargo_code>
+								<cargo_freight></cargo_freight>
+							</cargo_class_segment>
+						</container>
+						<container>
+            				<reference>CAIU4584882</reference>
+            				<number>1</number>
+            				<type>40HC</type>
+            				<Empty_full>1/1</Empty_full>
+            				<seals>EU21374954</seals>
+            				<mark1></mark1>
+        					<mark2 />
+            				<sealing_party></sealing_party>
+							<cargo_class_segment>
+								<cargo_code>DCBA40CL</cargo_code>
+								<cargo_freight></cargo_freight>
+							</cargo_class_segment>
+						</container>
+						</bol_specific_segment>
+		</twm_bol>

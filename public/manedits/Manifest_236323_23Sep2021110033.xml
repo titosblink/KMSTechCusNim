@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+                                <TWM_Manifest><Identification_segment><Registry_number>NY137R</Registry_number><Date>23/09/21</Date><Customs_office_segment>
+                                    <code>false</code>
+                                </Customs_office_segment></Identification_segment><General_segment>
+                        <Master_information></Master_information>
+                        <Last_discharge></Last_discharge>
+                        <Arrival_segment>
+                            <Date_of_arrival>24/09/21</Date_of_arrival>
+                            <Time_of_arrival>12:00:00</Time_of_arrival>
+                        </Arrival_segment>
+                        <Departure_segment>
+                            <code>TGLFW</code>
+                        </Departure_segment>
+                        <Destination_segment>
+                            <destport_code>false</destport_code>
+                            <terminal_operator>
+                                <operatorberth_code>OPERA-BP000038</operatorberth_code>
+                            </terminal_operator>
+                        </Destination_segment>
+                        <Carrier_segment>
+                            <unique_carrier_reference>AGENT-BP000638</unique_carrier_reference>
+                            <Name>MEDITERRANEAN SHIPPING CO NIG LTD</Name>
+                            <address></address>
+                        </Carrier_segment>
+                        <Transport_segment>
+                            <Name_of_transporter>MSC SHAULA</Name_of_transporter>
+                            <Place_of_transporter></Place_of_transporter>
+                            <Mode_of_transport_segment>
+                                <code>false</code>
+                            </Mode_of_transport_segment>
+                            <Nationality_of_transport_segment>
+                                <code>true</code>
+                            </Nationality_of_transport_segment>
+                            <Transporter_registration_segment>
+                                <Registration_number>8</Registration_number>
+                                <Registration_date></Registration_date>
+                            </Transporter_registration_segment>
+                        </Transport_segment>
+                        <Tonnage_segment>
+                            <Gross_tonnage>22</Gross_tonnage>
+                            <Net_tonnage>22</Net_tonnage>
+                        </Tonnage_segment>
+                    </General_segment></TWM_Manifest>

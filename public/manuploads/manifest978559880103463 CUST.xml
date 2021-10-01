@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?><ManifestRegisterTransactionResponse>
+<Identification>
+<CustomsCode>01TC</CustomsCode>
+<Registry_number>XA132A</Registry_number>
+<Date>2021-08-18</Date>
+</Identification>
+<TransactionStatus>Ok</TransactionStatus>
+<Info>
+<Message>Operation completed successfully, Manifest was registered</Message>
+</Info>
+<Registration_information>
+<Registration_number>1180</Registration_number>
+<Registration_year>2021</Registration_year>
+<Registration_date>2021-08-16</Registration_date>
+</Registration_information>
+</ManifestRegisterTransactionResponse>

@@ -1,0 +1,202 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+								<twm_bol><identification_segment><registry_number>XA132A</registry_number><date>18/08/2021</date><bol_reference>MEDUAR272447</bol_reference><Customs_office_segment>
+        					<Code>01TC</Code>
+        				</Customs_office_segment></identification_segment><bol_specific_segment><line_number>4</line_number><Bol_nature>23</Bol_nature><master_bol>
+						<customs_office_code>XXX</customs_office_code>
+						<registry_number>XXX</registry_number>
+						<date_of_departure />
+						<master_bol_reference>XXX</master_bol_reference>
+					</master_bol><unique_carrier_reference>AGENT-BP000638</unique_carrier_reference>
+        			<total_number_of_containers>9</total_number_of_containers>
+        			<total_gross_mass_manifested>4</total_gross_mass_manifested>
+        			<volume_in_cubic_meters>228541.50</volume_in_cubic_meters><bol_type_segment>
+						<code></code>
+					</bol_type_segment>
+					<exporter_segment>
+						<code /><name></name>
+						<address></address>
+					</exporter_segment>
+					<consignee_segment>
+						<code /><name></name>
+						<address></address>
+					</consignee_segment>
+					<notify_segment>
+						<code /><name></name>
+						<address></address>
+					</notify_segment>
+					<place_of_loading>
+						<code>BEANR</code>
+					</place_of_loading>
+					<Place_of_unloading>
+						<destport_code>BEANR</destport_code>
+							<terminal_operator>
+							<terminalop_berthcode>AGENT-BP002171</terminalop_berthcode>
+							</terminal_operator>
+					</Place_of_unloading><freight_segment>
+						<bol_freight_cost />
+						<currency></currency>
+						<indicator_segment />
+					</freight_segment>
+					<packages_segment>
+						<package_type_code></package_type_code>
+						<number_of_packages></number_of_packages>
+						<cargo_class_segment>
+							<cargo_code></cargo_code>
+							<cargo_qty></cargo_qty>
+							<cargo_uom></cargo_uom>
+							<cargo_freight />
+						</cargo_class_segment>
+						<shipping_marks/>
+						<goods_description>24.75 MT POLYVINYL CHLORIDE INOVYN 267RC PVC AS PER PRO FORMA INVOICE NUMBER V1204\/21 DATED 10\/06\/2021 CFR APAPA SEAPORT, LAGOS, NIGERIA HS-NO 39041000 21 DAYS FREE DEMURRAGE\/</goods_description>
+					</packages_segment>
+					<customs_segment>
+						<value />
+						<currency />
+					</customs_segment>
+					<transport_segment>
+						<value />
+						<currency />
+					</transport_segment>
+					<insurance_segment>
+						<value />
+						<currency />
+					</insurance_segment>
+					<seals_segment>
+						<number_of_seals></number_of_seals>
+						<mark_of_seals></mark_of_seals>
+						<sealing_party_code></sealing_party_code>
+						<Information_part_a></Information_part_a>
+					</seals_segment>
+					<operations_segment>
+						<location_segment>
+							<code></code>
+							<information />
+						</location_segment>
+					</operations_segment><container>
+            				<reference>MEDU4769589</reference>
+            				<number>1</number>
+            				<type>40HC</type>
+            				<Empty_full>1/1</Empty_full>
+            				<seals>5809097</seals>
+            				<mark1></mark1>
+        					<mark2 />
+            				<sealing_party></sealing_party>
+							<cargo_class_segment>
+								<cargo_code>DCBA40CL</cargo_code>
+								<cargo_freight></cargo_freight>
+							</cargo_class_segment>
+						</container>
+						<container>
+            				<reference>MSDU8161470</reference>
+            				<number>1</number>
+            				<type>40HC</type>
+            				<Empty_full>1/1</Empty_full>
+            				<seals>5809151</seals>
+            				<mark1></mark1>
+        					<mark2 />
+            				<sealing_party></sealing_party>
+							<cargo_class_segment>
+								<cargo_code>DCBA40CL</cargo_code>
+								<cargo_freight></cargo_freight>
+							</cargo_class_segment>
+						</container>
+						<container>
+            				<reference>MEDU4688574</reference>
+            				<number>1</number>
+            				<type>40HC</type>
+            				<Empty_full>1/1</Empty_full>
+            				<seals>5809072</seals>
+            				<mark1></mark1>
+        					<mark2 />
+            				<sealing_party></sealing_party>
+							<cargo_class_segment>
+								<cargo_code>DCBA40CL</cargo_code>
+								<cargo_freight></cargo_freight>
+							</cargo_class_segment>
+						</container>
+						<container>
+            				<reference>MEDU4708480</reference>
+            				<number>1</number>
+            				<type>40HC</type>
+            				<Empty_full>1/1</Empty_full>
+            				<seals>5809082</seals>
+            				<mark1></mark1>
+        					<mark2 />
+            				<sealing_party></sealing_party>
+							<cargo_class_segment>
+								<cargo_code>DCBA40CL</cargo_code>
+								<cargo_freight></cargo_freight>
+							</cargo_class_segment>
+						</container>
+						<container>
+            				<reference>MEDU8807769</reference>
+            				<number>1</number>
+            				<type>40HC</type>
+            				<Empty_full>1/1</Empty_full>
+            				<seals>5809191</seals>
+            				<mark1></mark1>
+        					<mark2 />
+            				<sealing_party></sealing_party>
+							<cargo_class_segment>
+								<cargo_code>DCBA40CL</cargo_code>
+								<cargo_freight></cargo_freight>
+							</cargo_class_segment>
+						</container>
+						<container>
+            				<reference>MEDU7318383</reference>
+            				<number>1</number>
+            				<type>40HC</type>
+            				<Empty_full>1/1</Empty_full>
+            				<seals>5809180</seals>
+            				<mark1></mark1>
+        					<mark2 />
+            				<sealing_party></sealing_party>
+							<cargo_class_segment>
+								<cargo_code>DCBA40CL</cargo_code>
+								<cargo_freight></cargo_freight>
+							</cargo_class_segment>
+						</container>
+						<container>
+            				<reference>MEDU7221731</reference>
+            				<number>1</number>
+            				<type>40HC</type>
+            				<Empty_full>1/1</Empty_full>
+            				<seals>5809087</seals>
+            				<mark1></mark1>
+        					<mark2 />
+            				<sealing_party></sealing_party>
+							<cargo_class_segment>
+								<cargo_code>DCBA40CL</cargo_code>
+								<cargo_freight></cargo_freight>
+							</cargo_class_segment>
+						</container>
+						<container>
+            				<reference>TGBU7006346</reference>
+            				<number>1</number>
+            				<type>40HC</type>
+            				<Empty_full>1/1</Empty_full>
+            				<seals>5809174</seals>
+            				<mark1></mark1>
+        					<mark2 />
+            				<sealing_party></sealing_party>
+							<cargo_class_segment>
+								<cargo_code>DCBA40CL</cargo_code>
+								<cargo_freight></cargo_freight>
+							</cargo_class_segment>
+						</container>
+						<container>
+            				<reference>MEDU8393150</reference>
+            				<number>1</number>
+            				<type>40HC</type>
+            				<Empty_full>1/1</Empty_full>
+            				<seals>809167</seals>
+            				<mark1></mark1>
+        					<mark2 />
+            				<sealing_party></sealing_party>
+							<cargo_class_segment>
+								<cargo_code>DCBA40CL</cargo_code>
+								<cargo_freight></cargo_freight>
+							</cargo_class_segment>
+						</container>
+						</bol_specific_segment>
+		</twm_bol>
